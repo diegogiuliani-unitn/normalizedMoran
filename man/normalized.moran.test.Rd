@@ -47,7 +47,7 @@ Normalized "\eqn{I_6}" Moran's test for spatial autocorrelation proposed by Till
 }
 
 \section{References}{
- Tillé Y., Giuliani D., Dickson M.M., Espa G. (2026) Revisiting the Normalization of the Moran's \eqn{I} index: A Correlation-based Approach with Inference, \emph{International Statistical Review}
+ Tillé Y., Giuliani D., Dickson M.M., Espa G. (2026) Revisiting the Normalization of the Moran's \eqn{I} index: A Correlation-based Approach with Inference, \emph{International Statistical Review}, \href{https://doi.org/10.1111/insr.70067}{doi:10.1111/insr.70067}
 }
 
 \examples{
