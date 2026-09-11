@@ -54,7 +54,7 @@ A permutation test for the "\eqn{I_6}" normalized Moran's \eqn{I} statistic by T
 }
 
 \section{References}{
- Tillé Y., Giuliani D., Dickson M.M., Espa G. (2026) Revisiting the Normalization of the Moran's \eqn{I} index: A Correlation-based Approach with Inference, \emph{International Statistical Review}
+ Tillé Y., Giuliani D., Dickson M.M., Espa G. (2026) Revisiting the Normalization of the Moran's \eqn{I} index: A Correlation-based Approach with Inference, \emph{International Statistical Review}, \href{https://doi.org/10.1111/insr.70067}{doi:10.1111/insr.70067}
 }
 
 \examples{
